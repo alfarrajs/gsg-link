@@ -245,7 +245,7 @@ const Navbar = () => {
                 <Stack direction='column' alignItems='center'>
                   <Avatar alt='Remy Sharp' src='/static/images/avatar/2.jpg' />
                   <Typography variant='body1' sx={{ fontSize: '14px' }}>
-                    Mohammed Hijazi{' '}
+                    Izzedeen Alfarra{' '}
                   </Typography>
                   <Typography sx={{ fontSize: '12px' }} variant='body2'>
                     Freelancer

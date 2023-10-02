@@ -29,7 +29,7 @@ const Sidebar = () => {
                   color: '#14a800',
                 },
               }}>
-              Mohammed Hijazi
+                Izzedeen Alfarra
             </Typography>
           </Link>
           <Typography

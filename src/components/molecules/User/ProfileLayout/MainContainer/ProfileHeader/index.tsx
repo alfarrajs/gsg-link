@@ -16,7 +16,7 @@ const MainContainer = () => {
       }}
     >
       <Stack direction="row" alignItems="center" spacing={2}>
-        <Avatar alt="Remy Sharp" src="assets/images/global/alaa.jpg" sx={{
+        <Avatar alt="a nice pfp for the engineer izzedeen" src="assets/images/global/izze.jpg" sx={{
             width:"60px",
             height:"60px"
           }} 
@@ -30,7 +30,7 @@ const MainContainer = () => {
               color: "#001e00"
             }}
           >
-            Alaa El-faqawi
+            Izzedeen Alfarra
           </Typography>
           <Typography
             sx={{ fontSize: "12px", color: "#001e00" }}
