@@ -15,7 +15,7 @@ const Sidebar = () => {
         padding: '1rem 0',
       }}>
       <Stack direction='column' alignItems='center' spacing={1}>
-        <Avatar alt='Remy Sharp' src='assets/images/sas' />
+        <Avatar alt='I' src='assets/images/sas' />
         <Box textAlign={'center'}>
           <Link href='profile'>
             <Typography

@@ -223,7 +223,7 @@ const Navbar = () => {
             </Tooltip>
             <Tooltip title='Profile' arrow>
               <IconButton onClick={handleOpenUserMenu} sx={{ p: 0 }}>
-                <Avatar alt='Remy Sharp' src='assets/images/czxc' />
+                <Avatar alt='I' src='assets/images/czxc' />
               </IconButton>
             </Tooltip>
             <Menu
@@ -243,7 +243,7 @@ const Navbar = () => {
               open={Boolean(anchorElUser)}>
               <MenuItem onClick={handleCloseUserMenu}>
                 <Stack direction='column' alignItems='center'>
-                  <Avatar alt='Remy Sharp' src='/static/images/avatar/2.jpg' />
+                  <Avatar alt='I' src='/static/images/avatar/2.jpg' />
                   <Typography variant='body1' sx={{ fontSize: '14px' }}>
                     Izzedeen Alfarra{' '}
                   </Typography>
